@@ -148,4 +148,6 @@ Sustainability Impact
 The Plant Disease Detection System aims to provide a reliable, accurate, and scalable solution for identifying plant diseases using Artificial Intelligence. By enabling early disease detection, the system helps farmers improve crop productivity, reduce losses, and support sustainable agricultural practices.
 
 Screenshots:
+![Dashboard]()
+
 
